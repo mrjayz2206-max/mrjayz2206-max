@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="210" viewBox="0 0 900 210" fill="none">
+  <defs>
+    <linearGradient id="bg-light" x1="0" y1="0" x2="900" y2="210" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="60%" stop-color="#F8FAFC"/>
+      <stop offset="100%" stop-color="#F1F5F9"/>
+    </linearGradient>
+    <linearGradient id="accent-light" x1="36" y1="0" x2="864" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#D97706" stop-opacity="0.8"/>
+      <stop offset="50%" stop-color="#0284C7" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#059669" stop-opacity="0.7"/>
+    </linearGradient>
+    <pattern id="grid-light" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#0F172A" stroke-opacity="0.035" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect x="1" y="1" width="898" height="208" rx="14" fill="url(#bg-light)" stroke="#D0D7DE" stroke-width="1.2"/>
+  <rect x="1" y="1" width="898" height="208" rx="14" fill="url(#grid-light)"/>
+  <line x1="36" y1="1.5" x2="864" y2="1.5" stroke="url(#accent-light)" stroke-width="2" stroke-linecap="round"/>
+
+  <rect x="36" y="26" width="328" height="26" rx="13" fill="#F1F5F9" stroke="#CBD5E1" stroke-width="1"/>
+  <circle cx="54" cy="39" r="4" fill="#059669"/>
+  <text x="68" y="43" fill="#1E293B" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" font-weight="600" letter-spacing="0.8">SOFTWARE ENGINEER  •  3+ YRS EXP</text>
+
+  <text x="864" y="43" text-anchor="end" fill="#64748B" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="500">Ho Chi Minh City, Vietnam</text>
+
+  <text x="36" y="98" fill="#0F172A" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="38" font-weight="700" letter-spacing="-0.6">Binh Nguyen</text>
+  <text x="36" y="129" fill="#334155" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.5" font-weight="500">Automation Systems  ·  Cross-Platform Tooling  ·  Android APK Development</text>
+
+  <line x1="36" y1="154" x2="864" y2="154" stroke="#E2E8F0" stroke-width="1"/>
+
+  <text x="36" y="182" fill="#B45309" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12.5" font-weight="600">C#  ·  Python  ·  Java  ·  JavaScript  ·  Android / Kotlin</text>
+  <text x="864" y="182" text-anchor="end" fill="#475569" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12.5">mrjayz2206@gmail.com</text>
+</svg>
